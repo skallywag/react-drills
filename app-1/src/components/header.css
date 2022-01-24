@@ -1,0 +1,16 @@
+.tracker-con {
+  background-color: blue;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 220px;
+}
+
+p {
+  color: antiquewhite;
+}
+
+input {
+  height: 30px;
+}
